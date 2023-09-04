@@ -1,4 +1,4 @@
-﻿public class Solution
+﻿public class ContainsDuplicateProblem
 {
     public bool ContainsDuplicate(int[] nums)
     {
